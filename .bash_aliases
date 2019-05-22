@@ -1,0 +1,11 @@
+# Personal Nonsense
+alias please='sudo $(!!)'
+alias ll='ls -la'
+alias gl='git log --graph --pretty=oneline --abbrev-commit --decorate --all'
+alias ga='git add'
+alias gc='git commit -m'
+alias gf='git fetch -pt'
+alias gfl='git flow'
+alias gu='git fetch -pt && git pull'
+alias gp='git push'
+alias gs='git status'
